@@ -1,0 +1,6 @@
+Husband,Spouse,Family,*
+Wife,Spouse,Family,*
+Own-child,Child,Family,*
+Other-relative,Relative,Family,*
+Unmarried,Non-spouse adult,Non-Family/other,*
+Not-in-family,Non-family adult,Non-Family/other,*

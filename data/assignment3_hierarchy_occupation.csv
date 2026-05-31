@@ -1,0 +1,15 @@
+Adm-clerical,Others,*
+Armed-Forces,Others,*
+Farming-fishing,Others,*
+Other-service,Others,*
+Priv-house-serv,Others,*
+Protective-serv,Others,*
+Transport-moving,Others,*
+Craft-repair,Technical,*
+Machine-op-inspct,Technical,*
+Prof-specialty,Technical,*
+Tech-support,Technical,*
+Exec-managerial,Non-Technical,*
+Handlers-cleaners,Non-Technical,*
+Sales,Non-Technical,*
+?,Unknown,*
